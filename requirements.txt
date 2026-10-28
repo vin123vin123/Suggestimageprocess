@@ -1,0 +1,11 @@
+# Web Interface UI Framework
+streamlit>=1.35.0
+
+# Database Connectivity
+pymongo>=4.6.0
+
+# Computer Vision & Image Processing Operations
+opencv-python-headless>=4.9.0.80
+
+# High-Performance Numerical Vector Arrays
+numpy>=1.26.0
